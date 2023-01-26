@@ -1,0 +1,29 @@
+## Завдання 2. Створення та запуск іншої програми (цитати)
+
+**1.Початковий код програми.**
+
+``` java
+public class Quotation {
+  String quote = "Welcome to Sun!";
+  public void display() {
+    System.out.println(quote);
+  }
+}
+```
+![](task2.1.png)
+
+**2.Перероблений код програми.**
+
+``` java
+
+public class Quotation {
+
+    String quote = "Peace begins with a smile.";
+    String var = "Mother Teresa";
+    public void display() {
+        System.out.println(quote);
+        System.out.println(var);
+    }
+}
+```
+![](task2.1.png)
